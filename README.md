@@ -34,12 +34,12 @@ Explore Various Encodings for Implicit Scene Reconstruction
 ------
 
 ####  PVCNN
-[paper](https://github.com/YuePanEdward/3DV-Implicit-Reconstruction/blob/master/implict_reconstruction_literature/PVCNN.pdf) [codes(pytorch)](https://github.com/mit-han-lab/pvcnn)
+[[paper]](https://github.com/YuePanEdward/3DV-Implicit-Reconstruction/blob/master/implict_reconstruction_literature/PVCNN.pdf) [[codes(pytorch)]](https://github.com/mit-han-lab/pvcnn)
 
 ------
 
 ####  MLH-MVCNN
-[paper]() [codes(pytorch)](https://github.com/krips89/mlh_mvcnn)
+[[paper]](https://github.com/YuePanEdward/3DV-Implicit-Reconstruction/blob/master/implict_reconstruction_literature/MLH-MVCNN.pdf) [[codes(pytorch)]](https://github.com/krips89/mlh_mvcnn)
 
 ------
 
