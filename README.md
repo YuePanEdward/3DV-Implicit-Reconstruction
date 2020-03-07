@@ -6,28 +6,30 @@ Explore Various Encodings for Implicit Scene Reconstruction
 ### 3D Reconstruction using implict function
 
 #### ONet
-[paper](https://github.com/YuePanEdward/3DV-Implicit-Reconstruction/blob/master/implict_reconstruction_literature/ONet.pdf)  [supplement](https://github.com/YuePanEdward/3DV-Implicit-Reconstruction/blob/master/implict_reconstruction_literature/ONet_supplementary.pdf) [codes(pytorch)](https://github.com/autonomousvision/occupancy_networks)
+[[paper]](https://github.com/YuePanEdward/3DV-Implicit-Reconstruction/blob/master/implict_reconstruction_literature/ONet.pdf)  [[supplement]](https://github.com/YuePanEdward/3DV-Implicit-Reconstruction/blob/master/implict_reconstruction_literature/ONet_supplementary.pdf) [[codes(pytorch)]](https://github.com/autonomousvision/occupancy_networks) [[notes(chinese)]](https://hideoninternet.github.io/2019/12/21/b040bbb5/)
 
 ![alt text](implict_reconstruction_literature/img/ONet-workflow.jpg)
 
 ------
 
 #### TSRNet
-[paper](https://github.com/YuePanEdward/3DV-Implicit-Reconstruction/blob/master/implict_reconstruction_literature/TSRNet.pdf)
+[[paper]](https://github.com/YuePanEdward/3DV-Implicit-Reconstruction/blob/master/implict_reconstruction_literature/TSRNet.pdf)
 
 ![alt text](implict_reconstruction_literature/img/TSRNet-workflow.jpg)
 
 ------
 
 #### DeepSDF
-[paper](https://github.com/YuePanEdward/3DV-Implicit-Reconstruction/blob/master/implict_reconstruction_literature/DeepSDF.pdf) [codes(pytorch)](https://github.com/facebookresearch/DeepSDF)
+[[paper]](https://github.com/YuePanEdward/3DV-Implicit-Reconstruction/blob/master/implict_reconstruction_literature/DeepSDF.pdf) [[codes(pytorch)]](https://github.com/facebookresearch/DeepSDF) [[notes(chinese)]](https://www.jianshu.com/p/a5a068345804)
+
+![alt text](implict_reconstruction_literature/img/DeepSDF-workflow.jpg) 
 
 ------
 
 ### 3D Encoding methods
 
 #### Tangent Convolution
-[paper](https://github.com/YuePanEdward/3DV-Implicit-Reconstruction/blob/master/implict_reconstruction_literature/Tangent-convolutions.pdf) [codes(tensorflow)](https://github.com/tatarchm/tangent_conv) [notes](https://github.com/youkenhou/note-about-tangent_conv)
+[[paper]](https://github.com/YuePanEdward/3DV-Implicit-Reconstruction/blob/master/implict_reconstruction_literature/Tangent-convolutions.pdf) [[codes(tensorflow)]](https://github.com/tatarchm/tangent_conv) [[notes(chinese)]](https://github.com/youkenhou/note-about-tangent_conv)
 
 ------
 
@@ -45,25 +47,26 @@ Explore Various Encodings for Implicit Scene Reconstruction
 
 #### [ModelNet](http://modelnet.cs.princeton.edu/#)
 
-![alt text](implict_reconstruction_literature/img/modelnet.jfif)
 
 ------
 
 #### [ShapeNet](https://www.shapenet.org/)
 
-![alt text](implict_reconstruction_literature/img/shapenet.png)
 
 ------
 
 #### [ScanNet](http://www.scan-net.org/)
 
-![alt text](implict_reconstruction_literature/img/scannet.png)
 
 ------
 
 #### [SceneNet](https://robotvault.bitbucket.io/)
 
-![alt text](implict_reconstruction_literature/img/scenenet.jpg)
 
+## Useful links
+
+#### [Machine Perception @ETH](https://ait.ethz.ch/teaching/courses/2019-SS-Machine-Perception/)
+
+#### [3DV @ETH](https://www.cvg.ethz.ch/teaching/3dvision/)
 
 ## TSRNet reproduction 
