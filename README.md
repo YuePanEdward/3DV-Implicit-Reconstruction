@@ -64,6 +64,7 @@ Explore Various Encodings for Implicit Scene Reconstruction
 
 
 ## Useful links
+#### [Awesome-3D-reconstruction-paper-lists](https://github.com/wkqscut/3D-Object-Reconstrution)
 
 #### [Machine Perception @ETH](https://ait.ethz.ch/teaching/courses/2019-SS-Machine-Perception/)
 
