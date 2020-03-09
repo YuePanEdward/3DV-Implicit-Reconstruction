@@ -17,6 +17,9 @@ Explore Various Encodings for Implicit Scene Reconstruction
 
 ![alt text](implict_reconstruction_literature/img/TSRNet-workflow.jpg)
 
+#### PSR: Algorithms used in TSRNet to generate octree and ground-truth mesh
+[[paper]](http://www.cs.jhu.edu/~misha/MyPapers/SGP06.pdf)[[codes(c++)]](https://github.com/mkazhdan/PoissonRecon)
+
 ------
 
 #### DeepSDF
