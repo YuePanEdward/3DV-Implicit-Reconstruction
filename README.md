@@ -73,4 +73,7 @@ Explore Various Encodings for Implicit Scene Reconstruction
 
 #### [3DV @ETH](https://www.cvg.ethz.ch/teaching/3dvision/)
 
+## Paper reading
+#### [RoutedFusion](https://github.com/YuePanEdward/3DV-Implicit-Reconstruction/blob/master/implict_reconstruction_literature/RoutedFusion.pdf)
+
 ## TSRNet reproduction 
